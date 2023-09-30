@@ -12,7 +12,7 @@
 
 ### Links
 
-- Solution URL: (https://github.com/HKES-04/Timer.git)
+- Solution URL: (https://github.com/HKES-04/Airbnb-Clone.git)
 - Live Site URL: (https://hkes-04.github.io/Timer/)
 
 ## My process
